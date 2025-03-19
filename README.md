@@ -44,4 +44,4 @@ This is a simple C++ program for managing hostel accommodations. It allows stude
 - Allow multiple hostel options.
 
 ## Author
-- Developed by Anirudh Tyagi
+- Developed by Anirudh Tyagi & Ayush Jasani
